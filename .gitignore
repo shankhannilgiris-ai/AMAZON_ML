@@ -1,0 +1,11 @@
+# data and generated artifacts (too large for git)
+*.tsv
+*.parquet
+*.npz
+*.npy
+*.zip
+data/
+output/
+logs/
+__pycache__/
+.venv/
